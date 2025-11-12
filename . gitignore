@@ -1,0 +1,20 @@
+# =========================================
+# 🧩 Movimentacao-de-Pecas-de-Xadrez – .gitignore
+# =========================================
+
+# Arquivos compilados e binários
+*.exe
+*.out
+*.o
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Pastas ou arquivos de backup
+*.bak
+*.tmp
+
+# Diretórios ocultos
+.vscode/
+.idea/
